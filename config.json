@@ -1,0 +1,14 @@
+{
+    "Client_IP": "192.168.128.4",
+    "Server_IP": "192.168.128.5",
+    "Source_Port_UDP": 9876,
+    "Destination_Port_UDP": 8765,
+    "Destination_Port_TCP_SYN_Head": 9999,
+    "Destination_Port_TCP_SYN_Tail": 8888,
+    "Port_TCP_Pre_Probing": 7777,
+    "Port_TCP_Post_Probing": 6666,
+    "UDP_Payload_Size": 1000,
+    "Inter_Measurement_Time": 15,
+    "UDP_Packet_Count": 6000,
+    "UDP_Packet_TTL": 255
+}
