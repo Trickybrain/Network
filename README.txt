@@ -42,6 +42,6 @@ gcc -o compDetect compDetect.c -I/usr/include/cjson -lcjson
 
 ## Contact Information
 - **Developer**: Edwin Ye
-- **Email**: edwinyedeveloper@gmail.com
+- **Email**: edwinyskdeveloper@gmail.com
 
 Feel free to contact me for any questions or feedback regarding this project.
